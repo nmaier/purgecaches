@@ -5,7 +5,7 @@
 		<em:id>purgecaches@tn123.org</em:id>
 		<em:name>Purge Caches</em:name>
 		<em:description>Instructs the application to purge caches on startup. Meant as a workaround for https://bugzilla.mozilla.org/show_bug.cgi?id=531886</em:description>
-		<em:version>2.0</em:version>
+		<em:version>3</em:version>
 		<em:type>2</em:type>
 		<em:bootstrap>true</em:bootstrap>
 
@@ -16,7 +16,7 @@
 			<Description>
 				<em:id>toolkit@mozilla.org</em:id>
 				<em:minVersion>2.0b1</em:minVersion>
-				<em:maxVersion>2.0.*</em:maxVersion>
+				<em:maxVersion>6.*</em:maxVersion>
 			</Description>
 		</em:targetApplication>
 	</Description>
