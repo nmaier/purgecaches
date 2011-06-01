@@ -2,7 +2,7 @@
 <RDF xmlns="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:em="http://www.mozilla.org/2004/em-rdf#">
 	<Description about="urn:mozilla:install-manifest">
 
-		<em:id>purgecaches@tn123.ath.cx</em:id>
+		<em:id>purgecaches@tn123.org</em:id>
 		<em:name>Purge Caches</em:name>
 		<em:description>Instructs the application to purge caches on startup. Meant as a workaround for https://bugzilla.mozilla.org/show_bug.cgi?id=531886</em:description>
 		<em:version>2.0</em:version>
